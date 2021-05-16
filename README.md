@@ -1,3 +1,3 @@
-- 👤 HELIOR
-- 👀 Python && PHP Dev
+- 👤 Helior
+- ☕ Python && PHP Dev
 - 📚 Estudando C!
